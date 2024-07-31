@@ -3,10 +3,10 @@
 
 from os import getenv
 
-API_ID = int(getenv("API_ID", "28238792"))
-API_HASH = getenv("API_HASH", "89b0d1f463a860525e1c117ccdef5aa3")
-BOT_TOKEN = getenv("BOT_TOKEN", "6360468548:AAEVcrVqSKsdRfivNrSMos4xkkA3syB_Qiw")
-OWNER_ID = int(getenv("OWNER_ID", "1236569704"))
-MONGODB_CONNECTION_STRING = getenv("MONGO_DB", "mongodb+srv://shubhp97:RI9LlWYGuMIJFJ1w@mrpanchall.p0lnx7k.mongodb.net/?retryWrites=true&w=majority&appName=Mrpanchall")
-LOG_GROUP = int(getenv("LOG_GROUP", "-1002151804796"))
-FORCESUB = getenv("FORCESUB", "Coursessffh")
+API_ID = int(getenv("API_ID", "23303247"))
+API_HASH = getenv("API_HASH", "23623f737dc15708708c65a7297e1510")
+BOT_TOKEN = getenv("BOT_TOKEN", "7351726996:AAGdewDxj1RBReSTcqPjOtUWZGrNNl4bTbw")
+OWNER_ID = int(getenv("OWNER_ID", "6931140424"))
+MONGODB_CONNECTION_STRING = getenv("MONGO_DB", "mongodb+srv://Sarkar123:GAUTAMMISHRA@sarkar.1uiwqkd.mongodb.net/?retryWrites=true&w=majority")
+LOG_GROUP = int(getenv("LOG_GROUP", "-1002166457568"))
+FORCESUB = getenv("FORCESUB", "DeveloperRadha")
